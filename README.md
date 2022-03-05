@@ -14,7 +14,7 @@ Here are some projects I'm currently working on.
 
 | Project Name | Description | - |
 | --- | --- | --- |
-| [Vue-db](https://github.com/OkoDev/vue-db) | Simple CRUD app with Vue / Axios/ PHP / MySQL  | - |
+| [Vue-db](https://github.com/OkoDev/vue-db) | Simple CRUD app with Vue / Axios / PHP / MySQL  | - |
 | [Vuetify-Firebase](https://okodev.github.io/vuetify-firebase) | App with Vue / Vue-router / Vuex / Vuetify / Firebase | - |
 
 
